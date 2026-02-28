@@ -4,9 +4,7 @@
 A full-stack web application to automate employee attendance tracking with role-based access control.  
 Employees can mark daily check-in/check-out, while managers can view and generate attendance reports.
 
-Demo Video- https://drive.google.com/file/d/1At5M2vQKrPRjthhFJWl496Z9VxEOcmGm/view?usp=drive_link
----
-
+Deploy: https://employee-attendance-system-4-q38l.onrender.com/
 ## Tech Stack
 **Frontend:** React, TypeScript, Zustand  
 **Backend:** Node.js, Express  
